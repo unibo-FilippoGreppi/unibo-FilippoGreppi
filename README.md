@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @unibo-FilippoGreppi
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Engineering and Computer Science
-- 💞️ I’m looking to collaborate on school's assignment
 - 📫 How to reach me filippo.greppi2@studio.unibo.it
 
 <!---
